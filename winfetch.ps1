@@ -29,7 +29,7 @@
 .DESCRIPTION Winfetch is a command-line system information utility for Windows written in PowerShell.
 .AUTHOR lptstr
 .PROJECTURI https://github.com/lptstr/winfetch
-.COMPANYNAME
+.COMPANYNAMEScreenshot from 2021-02-15 18-59-46
 .COPYRIGHT
 .TAGS
 .LICENSEURI
